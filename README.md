@@ -1,2 +1,1 @@
-# Bo2PrestigeIcons-iw4x
-bo2 prestige icon replacement for iw4x (original creation date: Jan 17, 2021)
+Install: Place the images folder thats inside of "z_blops2prestige.iwd" file into-> "....iw4x_full_game/userraw" if that doesnt work try placing the entire "z_blops2prestige.iwd" into "....iw4x_full_game/main" instead.
